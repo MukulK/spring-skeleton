@@ -1,0 +1,14 @@
+<plugin>
+    <groupId>com.mukul.plugin</groupId>
+    <artifactId>provenance</artifactId>
+    <version>1.0.0</version>
+    <goalPrefix>provenance</goalPrefix>
+
+    <executions>
+        <execution>
+            <goals>
+                <goal>generate-json</goal>
+            </goals>
+        </execution>
+    </executions>
+</plugin>
